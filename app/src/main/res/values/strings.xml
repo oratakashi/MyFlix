@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MyFlix</string>
+    <string name="foo" translatable="false">Lorem Ipsum</string>
+    <string name="title_genre">Genre</string>
+    <string name="title_select_your_favorite_genre">Select Your Favorite Genre</string>
+    <string name="placeholder_sub_genre">Our Movie Collection with %1$s Genre</string>
+    <string name="placeholder_user_review">User Review ( %1$s )</string>
+    <string name="placeholder_empty_review">We don\'t have any reviews for %1$s</string>
+    <string name="placeholder_thumbs" translatable="false">https://img.youtube.com/vi/%1$s/0.jpg</string>
+    <string name="title_icon" translatable="false">Icon</string>
+    <string name="title_overview">Overview</string>
+    <string name="title_cast">Cast</string>
+    <string name="title_trailer" translatable="false">Trailer</string>
+    <string name="title_show_all">Show All</string>
+    <string name="title_try_again">Try Again</string>
+    <string name="title_unknown">Unknown</string>
+    <string name="title_open_in_youtube">Open in YouTube</string>
+    <string name="title_zero" translatable="false">0</string>
+    <string name="title_rattings_and_reviews">Ratings and reviews</string>
+    <string name="title_oratakashi_id" translatable="false">Oratakashi.id</string>
+    <string name="title_from" translatable="false">From</string>
+</resources>
